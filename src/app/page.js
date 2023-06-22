@@ -15,7 +15,7 @@ export default function Page() {
             alt
           />
           <img
-            src="https://beatdreamer.com/images/giraffe%20happy%20birthday%20meme.jpg"
+            src="https://cdn.guff.com/site_0/media/32000/31950/items/22e23fdcef2ffb23e9bfc411.jpg"
             className="hidden dark:block w-[272px] h-[572px]"
             alt
           />
